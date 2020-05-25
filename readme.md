@@ -25,7 +25,7 @@ BibTex :
 ```
 
 
-The above image set dataset is divided from [1].  We divide the images of each category equally into five different image sets and obtain seventy-five image sets.
+The above image set dataset is from [1].  We divide the images of each category equally into five different image sets and obtain seventy-five image sets.
 
 [1] G. Kylberg, M. Uppstrom, I.-M. Sintorn, Virus texture analysis using local binary patterns and radial density profiles, in: Iberoamerican Congress on Pattern Recognition, Springer, 2011, pp. 573–580.
 
