@@ -1,4 +1,4 @@
-The Virus dataset contains 15 different categories. For each category, there are 5 object instances. The useage of this image set dataset can refer:
+The Virus dataset contains 15 different categories. For each category, there are 5 object instances. The useage of this image set dataset can refer to:
 
 
 BibTex : 
